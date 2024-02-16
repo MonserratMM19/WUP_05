@@ -81,7 +81,6 @@ fisher.test(table1)
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-
-
+From our graphical and numerical results, it is evident that the frequency of disease contraction was higher in the placebo group as compared to the treatment group. Moreover, the statistical inference test shows significant differences in the data collected from both groups. Based on these findings, we can conclude that there is a negative correlation between the use of the drug and the incidence of disease. Since a large number of participants were included in the study, we can assume that random variation has a negligible impact on the data. Therefore, we can infer from the results, assuming the data is accurate, that the drug use has a positive effect, and it can be considered as an effective treatment for the disease.
 
 
