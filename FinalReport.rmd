@@ -59,6 +59,9 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The number of people who reported getting aids in the placebo group was three times higher than those who were taking the actual drug.
+
+
 
 ## Inferential Results
 
