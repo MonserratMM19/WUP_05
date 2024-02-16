@@ -46,8 +46,7 @@ barchartGC(~infected + treatment,data=drugies, type="percent")
 
 ```
 
-
-
+The data presented in the graph leaves no doubt that the drug is highly effective in preventing AIDS. As the graph clearly shows, that almost 80% of patients who reported having AIDS had taken a placebo instead of the actual drug. This striking evidence reinforces the conclusion that the drug is a crucial tool in preventing the spread of AIDS.
 
 ### Numerical Descriptive Results
 
